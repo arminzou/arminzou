@@ -17,3 +17,7 @@
 - 🏃 **running** - chasing a 15k PR
 - 🐱 **cats** - Dusty & Toffee run this household
 
+## current projects
+
+- 🐾 [Pawvy](https://github.com/arminzou/pawvy) — a shared workspace where humans express intent and agents surface progress
+
