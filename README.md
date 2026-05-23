@@ -19,5 +19,5 @@
 
 ## Current Projects
 
-- 🐾 [Pawvy](https://github.com/arminzou/pawvy) — a shared workspace where humans express intent and agents surface progress
+- 🐾 [Integrios](https://github.com/arminzou/integrios) — Multi-tenant integration platform
 
