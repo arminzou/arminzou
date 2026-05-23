@@ -19,5 +19,5 @@
 
 ## Current Projects
 
-- 🐾 [Integrios](https://github.com/arminzou/integrios) — Multi-tenant integration platform
+- [Integrios](https://github.com/arminzou/integrios) — Multi-tenant integration platform
 
