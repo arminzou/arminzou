@@ -22,4 +22,4 @@ Going all in on being AI-native.
 | **[Dotbrain](https://github.com/arminzou/dotbrain)** | Private project memory for AI agents: notes, decisions, and tasks kept outside the code repo. |
 | **[Integrios](https://github.com/arminzou/integrios)** | Self-hostable, multi-tenant platform for routing and transforming events between systems. C#, TypeScript, Postgres. |
 
-[zoulogic.com](https://www.zoulogic.com) · [X](https://x.com/arminzou) · [LinkedIn](https://www.linkedin.com/in/arminzou)
+[zoulogic.com](https://www.zoulogic.com) · [X](https://x.com/arminzou)
